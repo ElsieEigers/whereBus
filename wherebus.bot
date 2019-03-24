@@ -1,0 +1,18 @@
+{
+    "name": "wherebus",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "d74a3870-4dac-11e9-852f-f9fc7bcda41d",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\Elisabeth\\Downloads\\WhereBus\\wherebus.bot"
+}
